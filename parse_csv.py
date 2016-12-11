@@ -62,6 +62,8 @@ def download_src(src):
         return src
     src_name = img.url.split('/')[-1]
     src_name = src_name.split('?')[0]
+    if src_name[-4] != '.':
+        src_name = src_name + '.png'
     local_path = IMG_PATH + src_name
     with open(local_path, 'wb') as handle:
         handle.write(img.content)
