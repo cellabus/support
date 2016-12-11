@@ -7,5 +7,5 @@ Configuration profiles
 <li>Like with apps, profiles can be targeted to one or more "device tags" or installed on all devices under management.</li>
 <li>To install apps on specific device tags, click on &ldquo;Select device tags&rdquo;.</li>
 <li>Then select the tags you want the app to be installed on. As you select tags, the counter at the bottom will show the number of devices that the app will be installed on.</li>
-<li>Once you have selected all the desired tags, click &ldquo;Push to all devices in scope&rdquo; <img src="/assets/79922517/imported_image_c48212fe681c22002dd15cfec1b1fa27" alt="" /></li>
+<li>Once you have selected all the desired tags, click &ldquo;Push to all devices in scope&rdquo; <img src="/static/articles/imported_image_c48212fe681c22002dd15cfec1b1fa27" alt="" /></li>
 </ol>

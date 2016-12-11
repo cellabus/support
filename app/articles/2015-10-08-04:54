@@ -19,13 +19,13 @@ Enrollment
 </li>
 <li>In the Apple Configurator Prepare pane, click “<span class="wysiwyg-color-blue">prepare</span>”.</li>
 </ol>
-<p style="padding-left: 30px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="wysiwyg-text-align-center" src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201093369/3.png" alt="" width="598" height="293"></p>
+<p style="padding-left: 30px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="wysiwyg-text-align-center" src="/static/articles/3.png" alt="" width="598" height="293"></p>
 <p style="padding-left: 30px;">3. On the newly prepared iOS device, complete initial setup using the built-in Apple setup assistant. Skip the process of providing an iTunes ID. Connect the device to an open SSID (SSID-open)</p>
 <p style="padding-left: 30px;">4. Once device customization is complete, go to the Apple Configurator supervise pane; check the Cellabus management profile and select ‘Apply’/’Refresh.’ (See below)</p>
 <div class="page" title="Page 4">
 <div class="layoutArea">
 <div class="column">
-<p style="padding-left: 60px;"><img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201160555/4.png" alt="" width="648" height="515"></p>
+<p style="padding-left: 60px;"><img src="/static/articles/4.png" alt="" width="648" height="515"></p>
 &nbsp;&nbsp;&nbsp;<table style="height: 99px;" width="559">
 <tbody>
 <tr>
