@@ -58,6 +58,8 @@ def download_src(src):
     if remote_path[0] == '/':
         remote_path = 'http://support.cellabus.com' + remote_path
     img = requests.get(remote_path)
+    if img.status_code != 200:
+        return src
     src_name = img.url.split('/')[-1]
     src_name = src_name.split('?')[0]
     local_path = IMG_PATH + src_name
