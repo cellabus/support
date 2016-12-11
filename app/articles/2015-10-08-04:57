@@ -4,13 +4,13 @@ Enrollment
 <p>For devices owned by the school, Cellabus’ integration with Apple Configurator allows for better control over the device by having these devices “supervised” with Apple Configurator. In order to complete the following steps, you will need access to Mac OSX device. For fast and easy enrollment for multiple iPads simultaneously, we recommend using a mobile cart or locker.</p>
 <ol>
 <li>Download and install Apple Configurator from the Mac App Store <a href="https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12">https://itunes.apple.com/us/app/apple-configurator/id434433123?mt=12</a></li>
-<li>On your Mac, open the Apple Configurator &gt; Preferences pane; in the General tab, ensure that the checkbox against “Remove apps and profiles Configurator did not install” is <strong>unchecked</strong>.&nbsp;<img src="/static/articles/1.png" alt=""></li>
+<li>On your Mac, open the Apple Configurator &gt; Preferences pane; in the General tab, ensure that the checkbox against “Remove apps and profiles Configurator did not install” is <strong>unchecked</strong>.&nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201160445/1.png" alt=""></li>
 <li>Use the Lock Screen tab to set additional preferences.</li>
 <li>Select a new or unconfigured iOS device and connect it to the Mac running Apple Configurator.</li>
 <li>In the Apple Configurator Prepare pane, select the Settings tab</li>
 <li>Switch the “Supervision” to ON</li>
 <li>Import the Cellabus management profile file&nbsp;<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; line-height: 19.6px;">(available at https://{Your_Subdomain}.cellabus.com/profile/mdm_profile)&nbsp;</span>by clicking “+” under the “Profiles” box, choosing “Import Profile..” and then selecting the mobileconfig file from&nbsp;the right folder. &nbsp;</li>
-<li><img src="/static/articles/2.png" alt=""></li>
+<li><img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201160455/2.png" alt=""></li>
 </ol>
 <table style="height: 50px;" width="560">
 <tbody>
