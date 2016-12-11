@@ -1,0 +1,37 @@
+Flexible management of devices using Tags
+2015-05-02 18:25
+The Cellabus dashboard
+<p>Most large-scale deployments need to apply different&nbsp;settings, apps, or data to specific groups of devices. Common&nbsp;examples include grouping for separate student and&nbsp;teacher&nbsp;devices, grouping by specific educational course, and grouping by&nbsp;grade level.</p>
+<p>Cellabus&nbsp;makes it easy to create groups of devices that&nbsp;can receive different policies controlling settings, app management,&nbsp;security restrictions, and device settings.</p>
+<p>Simply create&nbsp;configuration profiles and assign these to groups of devices based<br />on device tags. Once groups have been created, adding hundreds&nbsp;or thousands of devices to the same group definition is as easy as&nbsp;tagging those devices.</p>
+<p>For instance, imagine an iPad deployment needing three groups&nbsp;to segment devices: two separate grade level groups for student devices and one group for teacher&nbsp;devices. In Cellabus, all&nbsp;you need to do is create three tags &mdash; for example &ldquo;1st-grade,&rdquo; &ldquo;4th grade,&rdquo;and &ldquo;Teachers.&rdquo;</p>
+<p>Next, associate these tags with profiles that can be created in "Settings Profile"&nbsp;page in&nbsp;Cellabus. Any profile-specific policies would now apply to the<br />tagged devices.</p>
+<p>For example, perhaps a profile created for students&nbsp;would include the the1st-grade and4th-grade tags, applying those&nbsp;profile settings to the student devices.</p>
+<p>&nbsp;</p>
+<div class="page" title="Page 8">
+<div class="layoutArea">
+<div class="column">
+<p><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large">Adding Tags</span></span></p>
+<ol>
+<li>
+<p class="p1"><span class="s1">Select &ldquo;Tags&rdquo; from the sidebar menu. This page shows a list of all tags you have created. Since we haven't created any yet, this will be blank.</span></p>
+</li>
+<li>
+<p class="p1">&nbsp;To add a new tag, click on &ldquo;Add New&rdquo;<img src="/assets/79922457/imported_image_d346d1dce551d23bb573facce7d5b692" alt="" /></p>
+</li>
+<li>
+<p class="p1"><span class="s1">In the next page, give a descriptive but short name to your tag and click &ldquo;Add&rdquo;<img src="/assets/79922466/imported_image_4768769c49eb50aa99cb34b61644e8cf" alt="" /></span></p>
+</li>
+<li>
+<p class="p1"><span class="s1">To add devices to the newly created tag click on "Add Devices" next to the particular tag&nbsp;on the Tags page<img src="/assets/79922472/imported_image_1534abde788e2e10bb3acdbc96dde738" alt="" /></span></p>
+</li>
+<li>
+<p class="p1"><span class="s1">In the next page, select one or more devices from the list of all your enrolled devices and click on &ldquo;Add Devices&rdquo;</span><img src="/assets/79922478/imported_image_963b078b0d06c35ce971213ea8d299b6" alt="" /></p>
+</li>
+<li>
+<p class="p1">&nbsp;Once you have added all the devices you want, you will be taken back to the &ldquo;tags&rdquo; page. Here you can see that the &ldquo;Number of Devices&rdquo; field next to the tag you added them to reflects the right number of devices you added.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>

@@ -1,0 +1,58 @@
+Installing and removing a single app on multiple device tags
+2015-05-15 15:26
+Apps/eBooks Distribution and Management
+<p class="p1"><span class="s1">To install apps through Cellabus, they need&nbsp;to be first purchased through the <a href="https://volume.itunes.apple.com/us/store">Apple Education VPP store</a>.&nbsp;</span><span class="s1"><b>This is true for both paid apps and free apps. Due to a change in Apple's policies, pushing free apps without purchasing and assigning licenses first, results in an iTunes password prompt on iPads.&nbsp;</b></span><span style="line-height: 1.4em;"><b>.</b></span></p><b>
+</b><p class="p1"><span class="s1">B</span>uy the appropriate number of licenses that will be used simultaneously. These licenses can then be reused and recycled easily, as and when required. For free apps, it's always safe to "buy" a large number of number of licenses, to avoid having to repeat the process.</p>
+<p class="p1"><span class="s1">Once you have purchased all the apps you want from the VPP store, those apps will show up on the Cellabus VPP Application list at <a href="https://&lt;school-name&gt;.cellabus.com/vpp_apps"><span class="s2">https://&lt;school-name&gt;.cellabus.com/vpp_apps</span></a> Please wait until you receive a confirmation email of your order from Apple, which usually takes a few minutes.&nbsp;</span></p><p class="p1"><span class="s1">Once you do, go to the Cellabus dashboard and click on&nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201339525/app.png" alt="">on the homepage.</span></p>
+<h2><span class="wysiwyg-underline"><span class="s1 wysiwyg-font-size-large">Assigning App Licenses</span></span></h2>
+<ol>
+<li>Click on "Apps" on the side-bar menu.</li>
+<li>This takes you to the Apps catalog&nbsp;which shows a list of all apps along with the license information for each paid app.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201258969/app1.png" alt=""></li>
+<li>
+<p class="p1"><span class="s1">Click on the App Name that you want to assign from the list of app.&nbsp;</span></p>
+<p class="p1"><span class="s1">This will take you to the dedicated page for that app, that has more details about the concerned app, along with a list of users in your VPP program that you can assign the app to. You can also see the number of licenses you bought, and how many of them are available for you to use.&nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201258979/app2.png" alt=""></span></p>
+</li>
+<li>
+<p class="p1"><span class="s1">In order to assign a license to a user, select the right user in the users table by clicking the checkbox agains that user and then click on Grant License&nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201258989/app3.png" alt=""></span></p>
+</li>
+<li>
+<p class="p1"><span class="s1">Once that is done, you will notice that the “Licensed” option next to the user changes to true, and the granting of license leads to the number of available licenses to go down and in use licenses to go up accordingly.</span></p>
+</li>
+<li>
+<p class="p1">The app will then automatically be downloaded to all the devices associated with that Apple ID and will also appear in the “purchased” screen of the user’s App Store account, letting them install the app on demand.</p>
+</li>
+</ol>
+<h2><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large">Push&nbsp;App to Devices</span></span></h2>
+<ol>
+<li>Once you have assigned licenses to all the Apple IDs linked to the devices that you want to install a particular app to, click on the “Devices” tab, next to the users tab on that app's page.</li>
+<li>Apps can be installed to “All Devices” in your school or select group of devices using “Device Tags”</li>
+<li>To install apps on specific device tags, click on “Select device tags”.</li>
+<li>Then select the tags you want the app to be installed on. As you select tags, the counter at the bottom will show the number of devices that the app will be installed on.</li>
+<li>Once you have selected all the desired tags, click “Push to all devices in scope”. The apps will automatically be installed on all the devices without user intervention.&nbsp;</li>
+</ol>
+<div class="page" title="Page 15">
+<div class="layoutArea">
+<div class="column">
+<h2><span class="wysiwyg-underline"><span class="wysiwyg-font-size-large">Revoking and Removing Apps&nbsp;</span></span></h2><p class="p1"><span class="s1">It’s as easy to revoke license from a user, once they no longer need the app. </span></p>
+<ol>
+<li>Follow the above steps to go to the page for that app.</li>
+<li>
+<p class="p1"><span class="s1">Then select the user and click on “Revoke License”</span></p>
+</li>
+<li>
+<p class="p1"><span class="s1">Once that is done, the user will get a push notification on their device stating that they no longer have license to the app. They can keep using the app for 30 days after which the app will automatically be removed from their device, unless a license is bought by them or granted again using Cellabus. But even though they have access to the app for 30 days, you will have retaken the ownership of the app and will be immediately able to grant the license to another user without having to wait for the app to be deleted from the previous user’s devices.</span></p>
+</li>
+<li><span class="s1"><span class="s1">To remove the app before the 30 days grace period, follow the steps below</span></span>
+<ul>
+<li>On the apps page&nbsp;click on the "Associated Devices" tab</li>
+<li>Use the search bar to filter devices according to name. For instance, if you want to remove the app from "all devices" with the tag "1st Grade", enter "1st Grade" and the list will only show the devices belonging to 1st Grade.&nbsp;</li>
+<li>Select one or more devices from the list</li>
+<li>Click on the "Remove Devices" button.&nbsp;</li>
+</ul>
+<span class="s1"><img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201259039/app4.png" alt=""></span></li>
+<li>You will then see a confirmation that looks like this. The app will be removed from the devices the next time they are online.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201259049/app5.png" alt=""></li>
+</ol>
+<p class="p1">&nbsp;</p>
+</div>
+</div>
+</div><div></div>

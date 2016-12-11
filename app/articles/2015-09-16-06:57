@@ -1,0 +1,19 @@
+Web based enrollment
+2015-09-16 06:57
+Enrollment
+<p>For devices that have already been issued, Cellabus allows for web-based enrollment. However, with web based enrollment a devices "supervision" mode can't be changed. If the device was already supervised previously using Apple Configurator, all supervision only features will be available through Cellabus.&nbsp;</p>
+<p>Check&nbsp;http://support.cellabus.com/hc/en-us/articles/203821885-To-Supervise-or-Not for more information on supervision.</p>
+<p>A device can be enrolled using the following process can and doesn't any authentication. So the current user of the device, whether an administrator, teacher or student can&nbsp;</p>
+<ol>
+<li>Open <strong>Safari</strong>&nbsp;on the device you want to enroll and browse to your school specific Cellabus portal&nbsp;<a style="background-color: #ffffff;" href="http://school-name.cellabus.com">http://school-name.cellabus.com</a>&nbsp;Enrollment only works with Safari, and not with any other browser like Chrome.</li>
+<li>Click on the "Enroll" button, as show below.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338265/Enroll.png" alt=""></li>
+<li>This will take you to the "Settings" app on the device and open a popup screen like the one below. Click "Install" on this page to proceed.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338305/Enroll1.png" alt=""></li>
+<li>If the device has passcode enabled, you will be prompted to enter the same. Enter the passcode to continue.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201257939/Enroll2.png" alt=""></li>
+<li>On the next page, click "Install" to continue.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338325/Enroll3.png" alt=""></li>
+<li>You will be taken to another page. Click "Install" yet again.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338325/Enroll3.png" alt=""></li>
+<li>The next page shows the general information about enrollment. Click "Install" to continue.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338335/Enroll5.png" alt=""></li>
+<li>On the following page, click "Trust" to continue.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201338345/Enroll6.png" alt=""></li>
+<li>That's it! The device is now enrolled with your school's Cellabus account and can be managed using Cellabus. Click "Done" to finish the enrollment process.<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201257949/Enroll7.png" alt=""></li>
+</ol>
+<p>&nbsp;</p><h3 class="wysiwyg-text-align-center" style="font-style: normal; font-variant: normal; font-size: 16.8px; font-family: sans-serif; color: rgb(50, 67, 84);"><span class="wysiwyg-color-blue wysiwyg-font-size-large">Note: It may take up to 24 hours for your device to show up on your Cellabus dashboard.</span></h3>
+<p>&nbsp;</p><div></div>

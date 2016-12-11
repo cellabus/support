@@ -1,0 +1,4 @@
+Clear, erase, or lock a device passcode
+2015-10-09 02:50
+Device Management
+<ol><li>Go to the devices page, accessible from the left-side navigation bar.</li><li>Find and go to the specific device you are trying to access.</li><li>Click "Clear Passcode", "Erase Device", or "Lock Device" in the bottom of the page. &nbsp;</li></ol>Note: if the device doesn't have a passcode set, a user can trivially unlock the device even after you click "Lock Device"

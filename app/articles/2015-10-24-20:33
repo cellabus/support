@@ -1,0 +1,11 @@
+VPP User Lifecycle
+2015-10-24 20:33
+Apps/eBooks Distribution and Management
+VPP Users can have a status of Registered, Associated, Retired, or Deleted. &nbsp;<br>
+
+
+
+
+
+				<ul><li>A Registered status indicates the user has been created&nbsp;but is not yet associated with an iTunes account.</li><li>An Associated status indicates that the user has been associated with an iTunes account.</li><li>A Retired status indicates that the user has been retired but still associated with the current VPP user. &nbsp;When retired, assigned revocable licenses are revoked.</li><li>A Deleted status indicates that a VPP user is retired and its associated iTunes user has since
+been invited and associated with a new VPP user.</li></ul><br>Retired users can be reactivated by re-registering them. &nbsp;However, licenses will need to be reassigned. &nbsp;<div></div>

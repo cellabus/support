@@ -1,0 +1,32 @@
+To Supervise or Not
+2015-11-28 20:31
+Getting Started
+<p>Apple devices can be managed under two modes: Supervise and Not Supervised. The mode you chose will depend on how the devices are used and by whom. Cellabus recommends all school owned devices to be put on supervised mode. By doing so you have access to the following restrictions and features not available otherwise:</p>
+<p>Classroom features:</p>
+<ul>
+<li>Locking devices to a specific app</li>
+</ul>
+<p>App distribution:</p>
+<ul>
+<li>Silent over-the-air installation&nbsp;of apps using Cellabus without having to enter iTunes password</li>
+</ul>
+<p>Device restrictions:</p>
+<ul>
+<li>Allow iMessage</li>
+<li>Allow app removal</li>
+<li>Allow Game Center</li>
+<li>Allow Bookstore</li>
+<li>Allow Bookstore erotica</li>
+<li>Allow UI configuration profile installation</li>
+<li>Allow modifying account settings (&gt; iOS 7)</li>
+<li>Allow AirDrop (<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 19.6px;">&gt;&nbsp;</span>iOS 7)</li>
+<li>Allow changes to cellular data usage for apps (<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 19.6px;">&gt;&nbsp;</span>iOS 7)</li>
+<li>Allow user-generated content in Siri (<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 19.6px;">&gt;&nbsp;</span>iOS 7)</li>
+<li>Allow modifying Find My Friends settings&nbsp;<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 19.6px;">&gt;&nbsp;</span>(iOS 7)</li>
+<li>Allow host pairing (<span style="font-family: sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 19.6px;">&gt;&nbsp;</span>iOS 7)</li>
+<li>Enable Single App mode</li>
+<li>Enable HTTP proxy</li>
+<li>Enable web content filter</li>
+</ul>
+<p><span class="wysiwyg-color-red">Warning:</span></p>
+<p><span class="wysiwyg-color-red">Supervision requires a wipe of the device. Therefore it is recommended to supervise devices (if desired) prior to performing any configuration or providing to users. For unsupervised devices already in use, putting them in supervised mode will wipe the device completely and the device cannot be restored from a previous backup, either iCloud or iTunes. However, if the device is already in supervised mode, and you are only migrating management from Configurator or another MDM provider to Cellabus, you don't need to supervise it again and all the supervision features will work with Cellabus.</span></p><div></div>

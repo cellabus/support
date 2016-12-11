@@ -1,0 +1,4 @@
+The iTunes Store ID of the application could not be validated
+2015-11-07 23:35
+Common Issues
+<p style="margin-bottom: 14px; font-family: Arial, Helvetica, sans-serif; color: rgb(102, 102, 102); line-height: 1.5; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; background-color: rgb(255, 255, 255);">Installing VPP Apps can sometimes cause an error "The iTunes Store ID of the application could not be validated". &nbsp;</p><p style="margin-bottom: 14px; font-family: Arial, Helvetica, sans-serif; color: rgb(102, 102, 102); line-height: 1.5; font-size: 12.8px; font-style: normal; font-variant: normal; font-weight: normal; background-color: rgb(255, 255, 255);">This is because the VPP user does not have an assigned VPP license. &nbsp;In your VPP App page, you must grant licenses to the VPP User associated with the device you're trying to install the app on. &nbsp;</p><div></div>

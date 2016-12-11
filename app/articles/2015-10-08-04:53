@@ -1,0 +1,30 @@
+Enrolling Remaining iOS Devices
+2015-10-08 04:53
+Enrollment
+<div class="page" title="Page 6">
+<div class="layoutArea">
+<div class="column">
+<ol>
+<li>
+<p>Connect new, unsupervised iOS devices (up to 30 at once).</p>
+</li>
+<li>
+<p>In the Apple Configurator Prepare pane, set the devices to restore automatically from the backup created; name the devices and check the option to number them sequentially.</p>
+</li>
+<li>
+<p>Make sure the Cellabus management profile (available at https://{Your_Subdomain}.cellabus.com/profile/mdm_profile)&nbsp;is now checked in the Apple Configurator Prepare pane.</p>
+</li>
+<li>
+<p>Connect additional devices as needed, and click “prepare.”</p>
+</li>
+<li>
+<p>Go to the Apple Configurator supervise pane, click ‘apply’/’refresh’ to ensure all devices are supervised.</p>
+</li>
+<li>
+<p>Complete what is left of the iOS setup assistant to ready the iOS device for use.</p>
+</li>
+</ol>
+<p>Enrollment is now complete, you can now head to the Cellabus dashboard to manage these devices remotely. Login using your Apple ID to all the devices. The first time an app is installed using Cellabus, the device will ask you for the Apple ID password. From then on, everything will be over-the-air without any user interaction with the device.</p>
+</div>
+</div>
+</div><div></div>

@@ -1,0 +1,15 @@
+Adding teachers to Cellabus
+2015-06-04 14:11
+Classroom Mangement for Teachers
+<p>Teachers can only be added to Cellabus by an admin</p>
+<ol>
+<li>To add teachers go to "Manage Users" page.</li>
+<li>Teachers can currently be added in bulk by importing a csv file. <a href="https://cellabus.zendesk.com/hc/en-us/article_attachments/201259579/valid_teachers.csv">See the attached file on this page for the proper format</a>. Feel free to download the file and add details within the file on Excel or any text editing program like Notepad or Textedit.</li>
+<li>Once on the page, click on the "Select file" button.&nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201259589/teach1.png" alt=""></li>
+<li>Browse to the location of the CSV file with the details of the teachers you want to import, and upload the file</li>
+<li>Ensure that the right file is shown next to the button, and then click "Import from CSV" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201340155/teach2.png" alt=""></li>
+<li>If the file is properly formatted, you should now see the information about the teachers within the Teachers table.</li>
+<li>We are working on a feature to automatically inform and invited teachers to Cellabus using the uploaded email. Until that feature is live, please inform the teachers directly of their username and default password.</li>
+<li>Teachers will be able to change their password after logging in the first time.</li>
+</ol>
+<p>&nbsp;</p><div></div>

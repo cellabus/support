@@ -1,0 +1,55 @@
+Creating and Enrolling Your Master Backup Device
+2015-10-08 04:54
+Enrollment
+<div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p>At this stage, you are ready to create a master backup iOS device, which will be used as the template for additional devices. To create a master backup device:</p>
+<ol>
+<li>Ensure that the “unconfigured” device is connected to your Mac using USB&nbsp;&nbsp;
+<table style="height: 47px;" width="496">
+<tbody>
+<tr>
+<td class="wysiwyg-text-align-center">
+<blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><span class="wysiwyg-font-size-large wysiwyg-color-red">Ensure that "Find my iPad" is disabled on the device</span></blockquote>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li>In the Apple Configurator Prepare pane, click “<span class="wysiwyg-color-blue">prepare</span>”.</li>
+</ol>
+<p style="padding-left: 30px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img class="wysiwyg-text-align-center" src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201093369/3.png" alt="" width="598" height="293"></p>
+<p style="padding-left: 30px;">3. On the newly prepared iOS device, complete initial setup using the built-in Apple setup assistant. Skip the process of providing an iTunes ID. Connect the device to an open SSID (SSID-open)</p>
+<p style="padding-left: 30px;">4. Once device customization is complete, go to the Apple Configurator supervise pane; check the Cellabus management profile and select ‘Apply’/’Refresh.’ (See below)</p>
+<div class="page" title="Page 4">
+<div class="layoutArea">
+<div class="column">
+<p style="padding-left: 60px;"><img src="https://cellabus.zendesk.com/hc/en-us/article_attachments/201160555/4.png" alt="" width="648" height="515"></p>
+&nbsp;&nbsp;&nbsp;<table style="height: 99px;" width="559">
+<tbody>
+<tr>
+<td>
+<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<h2 class="wysiwyg-text-align-center"><span class="wysiwyg-color-blue wysiwyg-font-size-large">Important: The iOS device requires network connectivity (SSID-open) in order to complete the installation of the Cellabus management profile.</span></h2>
+<p class="wysiwyg-text-align-center">&nbsp;</p>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column" style="padding-left: 30px;">5. Your iOS device is now supervised and enrolled in your Cellabus dashboard; you now have a master/template iOS device.<br><table width="559" style="font-style: normal; font-variant: normal; font-size: 14px; font-family: sans-serif; height: 99px;"><tbody><tr><td><div class="page" title="Page 5"><div class="layoutArea"><div class="column"><h3 class="wysiwyg-text-align-center"><span class="wysiwyg-color-blue wysiwyg-font-size-large">Note: It may take up to 24 hours for the device to show up on your Cellabus dashboard.</span></h3></div></div></div></td></tr></tbody></table>6. Backup this device with Apple Configurator before applying any Cellabus policies, and name the backup; now you are ready to prepare the remaining devices.<br>7. Disconnect the prepared master/template iOS device.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div></div>

@@ -1,0 +1,5 @@
+Batch updating device information
+2015-12-16 01:25
+Device Management
+This is a feature for paid customers only. &nbsp;<br><br>By uploading a properly formatted CSV, you can batch update your devices' names, asset tags, and add device tags. &nbsp;You can do this by going to your Devices page and using the Bulk Import option to upload a CSV based on the template below. &nbsp;<br><pre>serial,name,asset_tag,device_tag
+1234567890A,New Device Name,New Asset Tag,Device Tag 1|Device Tag 2<br></pre><br>After uploading the CSV, Cellabus will look up each device by the serial number, set its name (if it is a supervised device) and asset tag, and add any non-existing device tags. &nbsp;Note that multiple device tags can be added by separating device tag names with a vertical bar.<div></div>
