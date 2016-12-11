@@ -3,7 +3,7 @@ Importing previously created profile
 Configuration profiles
 <ol>
 <li>
-<p class="p1"><span class="s1">Generate a profile on Apple Configurator with the restrictions wanted. Once created export the profile as a *.mobileconfig file to your local directory by selecting the profile in Configurator and clicking export &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><img src="/assets/79922343/imported_image_9d72785f49f17c81318b4e0c3c30aca1" alt="" /></p>
+<p class="p1"><span class="s1">Generate a profile on Apple Configurator with the restrictions wanted. Once created export the profile as a *.mobileconfig file to your local directory by selecting the profile in Configurator and clicking export &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><img src="/static/articles/imported_image_9d72785f49f17c81318b4e0c3c30aca1.png" alt="" /></p>
 </li>
 <li>
 <p class="p1"><span class="s1">Save the file to a location on your local computer.</span>&nbsp;</p>
@@ -18,14 +18,14 @@ Configuration profiles
 </tr>
 </tbody>
 </table>
-<img src="/assets/79922349/imported_image_d308e5158a7c6f8835456d8523168709" alt="" /></li>
+<img src="/static/articles/imported_image_d308e5158a7c6f8835456d8523168709.png" alt="" /></li>
 <li>
 <p class="p1"><span class="s1">Now head to Cellabus, and click on "Settings Profiles".&nbsp;</span>Once there, click on &ldquo;Add Profile&rdquo;</p>
 </li>
 <li>
-<p class="p1"><span class="s1">On&nbsp;the next page, enter the name of the profile and upload the file by clicking "Select Profile" and then selecting the file you exported from Apple Configurator to your computer. &nbsp; &nbsp;&nbsp;<img src="/assets/79922355/imported_image_e38637837765553091d15fda37b73640" alt="" /></span></p>
+<p class="p1"><span class="s1">On&nbsp;the next page, enter the name of the profile and upload the file by clicking "Select Profile" and then selecting the file you exported from Apple Configurator to your computer. &nbsp; &nbsp;&nbsp;<img src="/static/articles/imported_image_e38637837765553091d15fda37b73640.png" alt="" /></span></p>
 </li>
-<li><span class="s1">Ensure the correct file is listed. If not, click "Change" and try again.<img src="/assets/79922358/imported_image_cc96fa19f24cfebc5c0ec53f6de0733b" alt="" /></span></li>
+<li><span class="s1">Ensure the correct file is listed. If not, click "Change" and try again.<img src="/static/articles/imported_image_cc96fa19f24cfebc5c0ec53f6de0733b.png" alt="" /></span></li>
 <li>
 <p class="p1">Click &ldquo;Add&rdquo;. You will now be redirected to the &ldquo;Device Profiles&rdquo; page where you can see the newly uploaded profile in the table.</p>
 </li>
