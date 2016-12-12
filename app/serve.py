@@ -53,6 +53,11 @@ def index():
     return render_template("index.htm")
 
 
+@app.route("/<section>/<question>")
+def question_answer(section, question):
+    return render_template("question_answer.htm")
+
+
 @app.route("/robots.txt")
 def robots():
     return render_template("robots.txt")
