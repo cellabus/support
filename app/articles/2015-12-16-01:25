@@ -1,4 +1,5 @@
 Batch updating device information
+batch-updating-device-information
 2015-12-16 01:25
 Device Management
 This is a feature for paid customers only. &nbsp;<br><br>By uploading a properly formatted CSV, you can batch update your devices' names, asset tags, and add device tags. &nbsp;You can do this by going to your Devices page and using the Bulk Import option to upload a CSV based on the template below. &nbsp;<br><pre>serial,name,asset_tag,device_tag

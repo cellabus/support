@@ -1,4 +1,5 @@
 Web based enrollment
+web-based-enrollment
 2015-09-16 06:57
 Enrollment
 <p>For devices that have already been issued, Cellabus allows for web-based enrollment. However, with web based enrollment a devices "supervision" mode can't be changed. If the device was already supervised previously using Apple Configurator, all supervision only features will be available through Cellabus.&nbsp;</p>

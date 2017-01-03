@@ -29,11 +29,20 @@ def create_directory(path):
     os.mkdir(path)
 
 
+def slugify(string):
+    string = string.replace('(', '')
+    string = string.replace(')', '')
+    string = string.replace(' ', '-')
+    string = string.lower()
+    return string
+
+
 def save_articles(articles):
     for article in articles:
         file_path = ARTICLES_PATH + article['Updated At'].replace(' ', '-')
         print(file_path)
         data = article['Question'] + "\n"
+        data += slugify(article['Question']) + "\n"
         data += article['Updated At'] + "\n"
         data += article['Section'] + "\n"
         answer = parse_html(article['Answer Html'])
@@ -71,7 +80,8 @@ def download_src(src):
     return local_public_path
 
 
-articles = get_articles()
-create_directory(ARTICLES_PATH)
-create_directory(IMG_PATH)
-save_articles(articles)
+if __name__ == "__main__":
+    articles = get_articles()
+    create_directory(ARTICLES_PATH)
+    create_directory(IMG_PATH)
+    save_articles(articles)

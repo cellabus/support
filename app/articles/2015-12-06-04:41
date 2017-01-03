@@ -1,4 +1,5 @@
 Unable to receive emails from Cellabus
+unable-to-receive-emails-from-cellabus
 2015-12-06 04:41
 Common Issues
 If you are having trouble receiving emails from Cellabus, including registration confirmation, alerts, support, or VPP registration invite; please whitelist the following domains in your email, network and firewall settings.&nbsp;<br><br>*.cellabus.com<br><div>*.sendgrid.net</div><div>sendgrid.info</div><div>sendgrid.me<br><br>Additionally to ensure that none of Cellabus emails go to your spam, add the following addresses to your contacts:<br><br>noreply@cellabus.com<br>support@cellabus.com<br>no-reply@sendgrid.net<br></div><div></div>

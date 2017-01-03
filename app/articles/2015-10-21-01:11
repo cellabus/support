@@ -1,4 +1,5 @@
 Required open ports and IP addresses
+required-open-ports-and-ip-addresses
 2015-10-21 01:11
 Getting Started
 Cellabus operates on two ports on *.cellabus.com:<br><ul><li>Port 80 (HTTP)</li><li>Port 443 (HTTPS)</li></ul><a href="https://support.apple.com/en-us/HT202487">Apple also requires several other ports for MDMs</a><div></div>
